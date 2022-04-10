@@ -9,5 +9,5 @@ Project flow:
 6. Now the user will be directed to select the seat and UI designed for it will allow user to select seats baseed on its availability.
 7. System will ask user to order food if user wishes then the food ordering page gets displayed where the menu and bill summary gets displayed.
 8. Atlast the user will be directed to the payment page where wide option of payment modes are provided.
-9. In addition the cancellation and admin pages need to be done and it is under development.
+9. In addition the cancellation and admin pages are needed and it is under development.
 
