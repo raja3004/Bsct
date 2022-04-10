@@ -1,5 +1,6 @@
 
-I have developed a website to book seat in cinema theatre.  This has 5 major modules and they are Movie selection, Login/Signup, Seats and Food booking, Payment gateway and Cancellation. Here the movie is selected on different parameters.I have used Bootstrap for the UI.
+I have developed a website to Book Seats in Cinema Theatre.  
+This has 5 major modules and they are Movie selection, Login/Signup, Seats and Food booking, Payment gateway and Cancellation. Here the movie is selected on different parameters.I have used Bootstrap for the UI.
 Project flow:
 1. User will select the City name where the prominent city names gets displayed.
 2. After selecting the user will be directed to the page where movie screening at that city is displayed. The description and duration is also mentioned.
