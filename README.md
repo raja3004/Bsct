@@ -12,3 +12,7 @@ Project flow: (index.html is the home page)
 8. Atlast the user will be directed to the payment page where wide option of payment modes are provided.
 9. In addition the cancellation and admin pages are needed and it is under development.
 
+
+
+https://user-images.githubusercontent.com/62737837/162655845-a9c35568-d82a-4920-a2c1-8cb4e3f67094.mp4
+
